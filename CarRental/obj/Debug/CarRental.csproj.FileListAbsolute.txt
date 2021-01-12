@@ -1,0 +1,10 @@
+C:\Users\bnkho\source\repos\CarRental\CarRental\bin\Debug\CarRental.exe.config
+C:\Users\bnkho\source\repos\CarRental\CarRental\bin\Debug\CarRental.exe
+C:\Users\bnkho\source\repos\CarRental\CarRental\bin\Debug\CarRental.pdb
+C:\Users\bnkho\source\repos\CarRental\CarRental\obj\Debug\CarRental.csprojAssemblyReference.cache
+C:\Users\bnkho\source\repos\CarRental\CarRental\obj\Debug\CarRental.Form1.resources
+C:\Users\bnkho\source\repos\CarRental\CarRental\obj\Debug\CarRental.Properties.Resources.resources
+C:\Users\bnkho\source\repos\CarRental\CarRental\obj\Debug\CarRental.csproj.GenerateResource.cache
+C:\Users\bnkho\source\repos\CarRental\CarRental\obj\Debug\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\bnkho\source\repos\CarRental\CarRental\obj\Debug\CarRental.exe
+C:\Users\bnkho\source\repos\CarRental\CarRental\obj\Debug\CarRental.pdb
